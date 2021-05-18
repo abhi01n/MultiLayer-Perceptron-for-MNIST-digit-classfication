@@ -1,0 +1,2 @@
+# MultiLayer-Perceptron-for-MNIST-digit-classfication
+Build a 2-layer MLP for MNIST digit classfication. Feel free to play around with the model architecture and see how the training time/performance changes, but to begin, try the following:  Image (784 dimensions) -> fully connected layer (500 hidden units) -> nonlinearity (ReLU) -> fully connected (10 hidden units) -> softmax  Try building the model both with basic PyTorch operations, and then again with more object-oriented higher-level APIs. You should get similar results!
